@@ -1,18 +1,18 @@
 <?php
 
-namespace mixisLv\Reamaze;
+namespace marislazda\Reamaze;
 
-use mixisLv\Reamaze\Exceptions\ApiException;
-use mixisLv\Reamaze\Api\Articles;
-use mixisLv\Reamaze\Api\Contacts;
-use mixisLv\Reamaze\Api\Conversations;
-use mixisLv\Reamaze\Api\Messages;
-use mixisLv\Reamaze\Api\Channels;
+use marislazda\Reamaze\Exceptions\ApiException;
+use marislazda\Reamaze\Api\Articles;
+use marislazda\Reamaze\Api\Contacts;
+use marislazda\Reamaze\Api\Conversations;
+use marislazda\Reamaze\Api\Messages;
+use marislazda\Reamaze\Api\Channels;
 
 /**
  * Class Api
  *
- * @package mixisLv\Reamaze
+ * @package marislazda\Reamaze
  *
  * @property Articles $articles
  * @property Contacts $contacts

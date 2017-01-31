@@ -5,14 +5,14 @@
  * @author Mikus Rozenbergs <mikus.rozenbergs@gmail.com>
  */
 
-namespace mixisLv\Reamaze\Params\Messages;
+namespace marislazda\Reamaze\Params\Messages;
 
-use mixisLv\Reamaze\Params\BaseParams;
+use marislazda\Reamaze\Params\BaseParams;
 
 /**
  * Class RetrieveParams
  *
- * @package mixisLv\Reamaze\Params\Messages
+ * @package marislazda\Reamaze\Params\Messages
  * @see     https://www.reamaze.com/api/get_messages
  */
 class RetrieveParams extends BaseParams

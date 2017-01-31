@@ -5,11 +5,11 @@
  * @author Mikus Rozenbergs <mikus.rozenbergs@gmail.com>
  */
 
-namespace mixisLv\Reamaze\Api;
+namespace marislazda\Reamaze\Api;
 
-use mixisLv\Reamaze\BaseApi;
-use mixisLv\Reamaze\Params\Conversations\CreateParams;
-use mixisLv\Reamaze\Params\Conversations\RetrieveParams;
+use marislazda\Reamaze\BaseApi;
+use marislazda\Reamaze\Params\Conversations\CreateParams;
+use marislazda\Reamaze\Params\Conversations\RetrieveParams;
 
 
 class Conversations extends BaseApi

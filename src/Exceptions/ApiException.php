@@ -1,6 +1,6 @@
 <?php
 
-namespace mixisLv\Reamaze\Exceptions;
+namespace marislazda\Reamaze\Exceptions;
 
 class ApiException extends \Exception
 {

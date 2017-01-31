@@ -5,12 +5,12 @@
  * @author Mikus Rozenbergs <mikus.rozenbergs@gmail.com>
  */
 
-namespace mixisLv\Reamaze\Api;
+namespace marislazda\Reamaze\Api;
 
-use mixisLv\Reamaze\BaseApi;
-use mixisLv\Reamaze\Params\Contacts\RetrieveParams;
-use mixisLv\Reamaze\Params\Contacts\CreateParams;
-use mixisLv\Reamaze\Params\Contacts\UpdateParams;
+use marislazda\Reamaze\BaseApi;
+use marislazda\Reamaze\Params\Contacts\RetrieveParams;
+use marislazda\Reamaze\Params\Contacts\CreateParams;
+use marislazda\Reamaze\Params\Contacts\UpdateParams;
 
 class Contacts extends BaseApi
 {

@@ -2,7 +2,7 @@
 
 spl_autoload_register(function ($class) {
     // project-specific namespace prefix
-    $prefix = 'mixisLv\\Reamaze\\';
+    $prefix = 'marislazda\\Reamaze\\';
 
     // base directory for the namespace prefix
     $base_dir = __DIR__ . '/src/';

@@ -7,9 +7,9 @@
  * @version   $Id$
  */
 
-use mixisLv\Reamaze\Api;
-use mixisLv\Reamaze\Exceptions\ApiException;
-use mixisLv\Reamaze\Params\Messages\CreateParams;
+use marislazda\Reamaze\Api;
+use marislazda\Reamaze\Exceptions\ApiException;
+use marislazda\Reamaze\Params\Messages\CreateParams;
 
 include_once dirname(__FILE__) . './../../autoload.php';
 

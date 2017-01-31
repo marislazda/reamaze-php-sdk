@@ -5,14 +5,14 @@
  * @author Mikus Rozenbergs <mikus.rozenbergs@gmail.com>
  */
 
-namespace mixisLv\Reamaze\Params\Contacts;
+namespace marislazda\Reamaze\Params\Contacts;
 
-use mixisLv\Reamaze\Params\BaseParams;
+use marislazda\Reamaze\Params\BaseParams;
 
 /**
  * Class UpdateParams
  *
- * @package mixisLv\Reamaze\Params\Contacts
+ * @package marislazda\Reamaze\Params\Contacts
  * @see     https://www.reamaze.com/api/put_contacts
  */
 class UpdateParams extends BaseParams

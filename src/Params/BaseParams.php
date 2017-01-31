@@ -5,9 +5,9 @@
  * @author    Mikus Rozenbergs <mikus.rozenbergs@gmail.com>
  */
 
-namespace mixisLv\Reamaze\Params;
+namespace marislazda\Reamaze\Params;
 
-use mixisLv\Reamaze\Exceptions\ApiException;
+use marislazda\Reamaze\Exceptions\ApiException;
 
 abstract class BaseParams
 {

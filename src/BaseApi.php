@@ -5,7 +5,7 @@
  * @author Mikus Rozenbergs <mikus.rozenbergs@gmail.com>
  */
 
-namespace mixisLv\Reamaze;
+namespace marislazda\Reamaze;
 
 abstract class BaseApi
 {
