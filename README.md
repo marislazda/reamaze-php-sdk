@@ -13,12 +13,12 @@ The following PHP extension is required:
 
 ##Installing
 
-    composer require "mixislv/reamaze-php-sdk" "1.0.*"
+    composer require "marislazda/reamaze-php-sdk" "1.0.*"
 
 Or by adding the following to your composer.json:
 
     "require": {
-        "mixislv/reamaze-php-sdk": "1.0.*"
+        "marislazda/reamaze-php-sdk": "1.0.*"
     }
 
 ## Examples
