@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "marislazda\\Reamaze\\": "src"
+      "mixisLv\\Reamaze\\": "src"
     }
   },
   "extra": {
